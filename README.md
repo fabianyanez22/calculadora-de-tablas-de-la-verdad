@@ -20,11 +20,11 @@ Aplicación interactiva desarrollada en **Python + Streamlit** que permite const
 
 🔮 Mejoras futuras
 
-Personalización de la interfaz (temas, colores).
+- Personalización de la interfaz (temas, colores).
 
-Exportación adicional en formato Excel.
+- Exportación adicional en formato Excel.
 
-Soporte para expresiones más complejas con paréntesis anidados.
+- Soporte para expresiones más complejas con paréntesis anidados.
 
 
 📜 Licencia
