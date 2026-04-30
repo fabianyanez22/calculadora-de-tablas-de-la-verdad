@@ -19,7 +19,6 @@ Aplicación interactiva desarrollada en **Python + Streamlit** que permite const
 - Desarrollada con **Streamlit**, accesible desde cualquier navegador.
 
 🔮 Mejoras futuras
-Agregar más operadores lógicos (↔, ⊕, etc.).
 
 Personalización de la interfaz (temas, colores).
 
